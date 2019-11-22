@@ -8,8 +8,6 @@ public class Bridge {
 
         for(Figura figura : figury){
             figura.rysuj();
-            figura.rysujLinie();
-            figura.rysujOkrag();
         }
 
     }

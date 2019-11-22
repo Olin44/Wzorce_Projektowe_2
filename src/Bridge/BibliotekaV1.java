@@ -4,11 +4,11 @@ public class BibliotekaV1 implements Biblioteka{
 
     @Override
     public void rysujLinie() {
-        BG1.narysujLinie();
+        BG1.narysuj_linie();
     }
 
     @Override
     public void rysujOkrag() {
-        BG1.narysujOkrag();
+        BG1.narysuj_okrag();
     }
 }
